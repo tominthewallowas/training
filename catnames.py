@@ -7,7 +7,7 @@ Simple python program to learn about Git and GitHub.
 import cat_facts
 
 def determine_cat_names():
-    cat_names = ('Tippi', 'Kse', 'Lilee')
+    cat_names = ('Tippi', 'Kse', 'Lilly')
     return cat_names
 
 def collect_cat_facts(name=None):
